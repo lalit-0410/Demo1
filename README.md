@@ -1,2 +1,3 @@
 # Demo1
-This is my First repository
+This is My First Git repository.
+Authod- Lalit Chaudhary
